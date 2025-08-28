@@ -9,7 +9,7 @@
 
 - This project demonstrates both automation engineering and data storytelling — two of the most in-demand skills for internships and entry-level data roles.  
 
----
+
 
 ## 2. Objectives  
 The primary goals of this project were:  
@@ -19,7 +19,7 @@ The primary goals of this project were:
 - To analyse communication patterns with respect to frequency of messages, time of day, and most frequent receivers.  
 - To demonstrate a scalable, end-to-end pipeline combining automation and analytics.  
 
----
+
 
 ## 3. Methodology  
 
@@ -59,10 +59,10 @@ A null values check confirmed that no missing data remained in the cleaned datas
 
 In summary, timestamps were normalised to the format `DD-MM-YYYY HH:MM` and converted into Pandas datetime objects, receiver IDs were converted into strings, categorical columns such as `status` and `message` were cast to string datatypes, and roughly 20% of malformed or invalid rows were removed.  
 
----
+
 
 ## 4. Execution  
-
+(Make sure to run this program as an Administrator and pre-login whatapp web in browser)
 When the automation script is executed, the user is presented with the following interactive menu:  
 
 Choose an option:
@@ -101,7 +101,6 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 **Sample Top Receivers**: `917794046348 (5), 919190383400 (5), 917657717128 (5), 916866469732 (4), 919541675598 (4)`  
 ![Top Receivers](link_to_top_receivers_plot)  
 
----
 
 ## 6. Key Insights  
 - Automation successfully streamlined WhatsApp communication into a structured data pipeline.  
@@ -111,7 +110,7 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 - Time patterns highlight afternoon as peak messaging hours, with dips at late morning and late night.  
 - Receiver frequency analysis shows limited but repeated contacts dominating the logs.  
 
----
+
 
 ## 7. Impact  
 - Demonstrated ability to integrate automation and analytics in a single project.  
@@ -119,7 +118,7 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 - Optimised log structure for real-time monitoring and post-hoc EDA.  
 - Built reproducible workflow useful for **internship-level automation, data wrangling, and analytics tasks**.  
 
----
+
 
 ## 8. Tech Stack  
 - Python (3.10+)  
