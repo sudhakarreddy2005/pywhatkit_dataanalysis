@@ -112,15 +112,8 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 
 
 
-## 7. Impact  
-- Demonstrated ability to integrate automation and analytics in a single project.  
-- Scaled pipeline to handle **>400k records** with 0 missing values.  
-- Optimised log structure for real-time monitoring and post-hoc EDA.  
-- Built reproducible workflow useful for **internship-level automation, data wrangling, and analytics tasks**.  
 
-
-
-## 8. Tech Stack  
+## 7. Tech Stack  
 - Python (3.10+)  
 - pywhatkit (automation)  
 - Pandas, NumPy (data wrangling)  
@@ -130,7 +123,28 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 
 
 
+## 8. Conclusion  
+- Successfully developed a **WhatsApp automation system** integrated with structured logging.  
+- Processed and analysed **420,000+ records** with **20% data cleaning** and **zero null values** after transformation.  
+- Extracted meaningful insights on:  
+  - **Most frequent messages** (hi, hello, okay, thanks, bye, sure).  
+  - **Time-based activity** (afternoon peak, low activity in mornings and late nights).  
+  - **Receiver frequency** (a small group of receivers dominated most interactions).  
+- Demonstrated practical skills in **Python automation, data wrangling, and visual analytics**.  
+- The project proves scalability, reproducibility, and industry-level readiness.  
 
+
+
+## 9. Author  
+**Sudhakar Reddy**  
+- Undergraduate with a strong focus on **Automation, Data Analysis, and AI applications**.  
+- Experienced in building **large-scale Python pipelines (420k+ records)**.  
+- Skilled in **PyWhatKit, Pandas, NumPy, Seaborn, Matplotlib**.  
+- Actively seeking **internship opportunities** in **Data Science, Data Engineering, and Applied AI**.  
+
+ **GitHub**: [sudhakarreddy2005](https://github.com/sudhakarreddy2005)  
+ **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sudhakar-reddy-konda-769320299)  
+  
 
 
 
