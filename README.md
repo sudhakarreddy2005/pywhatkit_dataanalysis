@@ -87,7 +87,7 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 - Most frequently used messages: **hi, hello, okay, thanks, bye, sure**  
 - These top 6 account for the majority of all interactions.  
 - Rare outliers: **gooo_luck, congrats, need_help, enjow**  
-![Message Frequency Distribution](link_to_message_frequency_plot)  
+![Message Frequency Distribution](https://github.com/sudhakarreddy2005/pywhatkit_dataanalysis/blob/main/5.1.png)  
 
 ### 5.2 Time-Based Activity Patterns  
 - Aggregated message counts by hour of day.  
