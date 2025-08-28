@@ -63,7 +63,7 @@ In summary, timestamps were normalised to the format `DD-MM-YYYY HH:MM` and conv
 
 ## 4. Execution  
 (Make sure to run this program as an Administrator and pre-login whatapp web in browser)
-When the automation script is executed, the user is presented with the following interactive menu:  
+- When the automation script is executed, the user is presented with the following interactive menu:  
 
 Choose an option:
 
