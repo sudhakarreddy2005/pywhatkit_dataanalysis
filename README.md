@@ -143,7 +143,7 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 - Actively seeking **internship opportunities** in **Data Science, Data Engineering, and Applied AI**.  
 
  **GitHub**: [sudhakarreddy2005](https://github.com/sudhakarreddy2005)  
- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sudhakar-reddy-konda-769320299)  
+ **LinkedIn**: [sudhakar-reddy-konda](https://www.linkedin.com/in/sudhakar-reddy-konda-769320299)  
   
 
 
