@@ -93,13 +93,13 @@ Exploratory Data Analysis (EDA) was performed on the **420k+ cleaned records**.
 - Aggregated message counts by hour of day.  
 - Found low activity at **10 AM** and **11 PM**.  
 - **Afternoons** showed peak activity, suggesting higher engagement.  
-![Time-Based Activity Patterns](link_to_time_activity_plot)  
+![Time-Based Activity Patterns](https://github.com/sudhakarreddy2005/pywhatkit_dataanalysis/blob/main/5.2.png)  
 
 ### 5.3 Receiver Analysis: Most Contacted Numbers  
 - Identified top receivers across the dataset.  
 - Top contacts appeared **5–4 times** each; majority were contacted fewer times.  
 **Sample Top Receivers**: `917794046348 (5), 919190383400 (5), 917657717128 (5), 916866469732 (4), 919541675598 (4)`  
-![Top Receivers](link_to_top_receivers_plot)  
+![Top Receivers](https://github.com/sudhakarreddy2005/pywhatkit_dataanalysis/blob/main/5.3.png)  
 
 
 ## 6. Key Insights  
