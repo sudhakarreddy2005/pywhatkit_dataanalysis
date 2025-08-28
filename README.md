@@ -1,13 +1,13 @@
 # WhatsApp Automation & Messaging Behaviour Analysis  
 
 ## 1. Overview  
-This project combines end-to-end WhatsApp automation, built using the `pywhatkit` library, with large-scale data analysis of more than **420,000 logged messages**.  
+- This project combines end-to-end WhatsApp automation, built using the `pywhatkit` library, with large-scale data analysis of more than **420,000 logged messages**.  
 
-On the automation side, the system was designed in a clean, modular way using Python functions and a menu-driven `match-case` control flow. It is capable of instantly sending messages and images, scheduling messages with a wait-time, sending messages to groups, looping through multiple messages, and even deleting log files.  
+- On the automation side, the system was designed in a clean, modular way using Python functions and a menu-driven `match-case` control flow. It is capable of instantly sending messages and images, scheduling messages with a wait-time, sending messages to groups, looping through multiple messages, and even deleting log files.  
 
-On the analysis side, over **420k records** were processed across four attributes. The raw log data was cleaned, transformed, and validated into an analytics-ready format. Exploratory Data Analysis (EDA) was then carried out using **Seaborn** and **Matplotlib** to identify the most frequently used messages, daily activity patterns, and the most contacted receivers.  
+- On the analysis side, over **420k records** were processed across four attributes. The raw log data was cleaned, transformed, and validated into an analytics-ready format. Exploratory Data Analysis (EDA) was then carried out using **Seaborn** and **Matplotlib** to identify the most frequently used messages, daily activity patterns, and the most contacted receivers.  
 
-This project demonstrates both automation engineering and data storytelling — two of the most in-demand skills for internships and entry-level data roles.  
+- This project demonstrates both automation engineering and data storytelling — two of the most in-demand skills for internships and entry-level data roles.  
 
 ---
 
