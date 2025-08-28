@@ -7,7 +7,7 @@
 
 - On the analysis side, over **420k records** were processed across four attributes. The raw log data was cleaned, transformed, and validated into an analytics-ready format. Exploratory Data Analysis (EDA) was then carried out using **Seaborn** and **Matplotlib** to identify the most frequently used messages, daily activity patterns, and the most contacted receivers.  
 
-- This project demonstrates both automation engineering and data storytelling — two of the most in-demand skills for internships and entry-level data roles.  
+ 
 
 
 
